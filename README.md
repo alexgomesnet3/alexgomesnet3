@@ -1,4 +1,4 @@
-# { "Alex Gomes" : "Senior Full-stack Developer and Tech Manager"}
+# { "Alex Gomes" : "Senior Full-stack Developer and Team Lead"}
 <div align="center">
   <a href="https://github.com/alexgomesnet3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexgomesnet3&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
