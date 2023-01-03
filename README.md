@@ -2,6 +2,7 @@
 <div align="center">
   <a href="https://github.com/alexgomesnet3">
 </div>
+  <p>I'm a Sênior Full-stack Developer that currently uses HTML, CSS, JavaScript, Nodejs, Reactjs, Vuejs, PHP, Laravel and MySQL technologies. Currently I work with the Ene Soluções team, where I provide support services, code review, improvements and bugfix for major national and international Ecommerce players, which require a quick response in bugfix actions and a team that has a wide range of solutions available in the range of knowledge.</p>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Alex-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alex-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
