@@ -1,4 +1,4 @@
-# { "Alex Gomes" : "Team Leader and Sênior Full-stack Developer"}
+# { "Alex Gomes" : "Team Leader and Senior Full-stack Developer"}
 <div align="center">
   <a href="https://github.com/alexgomesnet3">
 </div>
