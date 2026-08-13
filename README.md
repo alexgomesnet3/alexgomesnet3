@@ -1,6 +1,4 @@
-# { "Alex Gomes" : "Tech Lead | Leader | Backend & AI Engineering"}
-
-<div align="center">
+<div align="left">
 
 # 👋 Hi, I'm Alex Gomes
 
@@ -24,27 +22,6 @@ More recently, I have also been working with **Generative AI, LLMs, AI Agents, R
 
 ---
 
-## 🏗️ Software Architecture
-
-- Domain-Driven Design (DDD)
-- Clean Architecture
-- Hexagonal Architecture
-- SOLID Principles
-- Clean Code
-- Design Patterns
-- Microservices
-- Event-Driven Architecture
-- REST APIs
-- Distributed Systems
-- Dependency Injection
-- Dependency Inversion
-- API Integration
-- Software Modernization
-
----
-
-## 💻 Backend Engineering
-
 <div align="center">
 
 <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -55,79 +32,6 @@ More recently, I have also been working with **Generative AI, LLMs, AI Agents, R
 <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 
 </div>
-
-<br>
-
-**Main technologies:**
-
-`Python` • `Java` • `PHP 8+` • `Laravel` • `FastAPI` • `Spring Boot` • `REST APIs` • `SQL`
-
----
-
-## ☁️ Cloud, DevOps & Infrastructure
-
-<div align="center">
-
-<img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-<img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img align="center" alt="Kubernetes" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
-<img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-
-</div>
-
-<br>
-
-**Cloud & Engineering ecosystem:**
-
-`AWS` • `Docker` • `Kubernetes` • `EKS` • `SQS` • `S3` • `Secrets Manager` • `GitHub Actions` • `Argo CD` • `CI/CD` • `PostgreSQL` • `MySQL` • `MongoDB`
-
----
-
-## 🤖 AI Engineering
-
-I also design and develop solutions using Artificial Intelligence and Generative AI technologies.
-
-My current areas of study and practical experience include:
-
-- Generative AI
-- Large Language Models (LLMs)
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Semantic Search
-- Embeddings
-- Vector Databases
-- PydanticAI
-- Qdrant
-- MongoDB
-- AI-powered automation
-- Integration with external AI models and APIs
-
----
-
-## 🧪 Engineering Practices
-
-I believe software architecture should improve the ability of a system to evolve rather than simply add complexity.
-
-Some of the engineering practices I apply and study include:
-
-- Automated Testing
-- Unit and Integration Tests
-- Pytest
-- Code Review
-- SOLID
-- Clean Code
-- Design Patterns
-- Dependency Injection
-- Dependency Inversion
-- Observability
-- Structured Logging
-- Distributed Tracing
-- CI/CD
-- Technical Documentation
-- Architecture Decision Records (ADR)
 
 ---
 
@@ -154,28 +58,6 @@ I enjoy working at the intersection between **business, people, architecture, an
 
 ---
 
-## 🚀 Current Focus
-
-Currently, I'm strengthening my portfolio around:
-
-- Software Architecture
-- Backend Engineering
-- Python
-- PHP 8+ & Laravel
-- Java & Spring Boot
-- Microservices
-- Domain-Driven Design
-- Clean & Hexagonal Architecture
-- Kubernetes
-- AWS
-- Distributed Systems
-- Artificial Intelligence
-- AI Agents & RAG
-
-My repositories increasingly focus on practical implementations of **software architecture patterns, backend engineering, distributed systems, cloud-native applications, and AI engineering**.
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -198,7 +80,7 @@ My repositories increasingly focus on practical implementations of **software ar
 
 <div align="center">
 
-### Architecture • Engineering • Leadership • Continuous Learning
+### Developer • Architecture • Engineering • Leadership • Continuous Learning
 
 </div>
   
